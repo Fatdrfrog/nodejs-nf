@@ -1,1 +1,5 @@
 /node_modules
+
+/node-express-ts/node_modules
+
+/node-express-ts/.env
